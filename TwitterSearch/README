@@ -1,0 +1,28 @@
+Geon Kang
+N17120399
+Realtime and Big Data Analytics Assignment : Extra Credit - Try out Twitter
+
+=====================================================================
+
+TwitterTest.java
+  Source code(The Twitter authentication parameters are included in a separate file "twitter4j.properties"
+  This file is necessary for the program to connect to the Twitter API, but is not included in raw format 
+  for security purposes.)
+
+TwitterTest.jar
+  Compiled runnable jar  
+  
+output.txt
+  Resulting tweets output by the program
+  
+TwitterLog.txt
+  Log of command line following program execution
+  
+TwitterTestExecution.png
+  Screenshot of program execution in command line
+  
+The program takes in a search query and output file path as parameters. It searches for recent tweets
+containing the search query and outputs them to the file path specified. Because of the rate limit in the
+twitter API (180 queries per 15 minute window), the program stops when it exceeds that limit.
+	
+=====================================================================

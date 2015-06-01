@@ -1,0 +1,27 @@
+Geon Kang
+N17120399
+Realtime and Big Data Analytics Assignment 3: Page Rank Extra Credit
+
+=====================================================================
+
+PageRankDriver.java
+PageRankMapper.java
+PageRankReducer.java 
+  Code (Only PageRankDriver.java changed from the original assignment)
+
+sample.txt
+  Small input file as specified by homework 3 instructions
+
+output0
+  folder containing "part-r-0000" output for first iteration. (Page Rank of 1 Step)
+
+output1
+  folder containing "part-r-0000" output for second iteration. (Page Rank of 2 Steps)
+
+output2
+  folder containing "part-r-0000" output for third iteration. (Page Rank of 3 Steps) 
+
+PageRankIterate.jar
+  Compiled jar
+  
+=====================================================================
